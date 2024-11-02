@@ -1,0 +1,8 @@
+Olá professora
+
+Aqui explicarei alguns detalhes sobre o trabalho
+
+O arquivo "Oficina.mwb" é o arquivo que editei o modelo
+O arquivo é do programa mysql workbench. que foi o melhor para usar para mac
+
+Mas também tem a resolução em foto
